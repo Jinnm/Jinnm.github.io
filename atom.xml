@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://jinnm.github.io/"/>
-  <updated>2019-05-18T14:36:57.129Z</updated>
+  <updated>2019-05-18T14:03:14.782Z</updated>
   <id>https://jinnm.github.io/</id>
   
   <author>
@@ -15,28 +15,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>test</title>
-    <link href="https://jinnm.github.io/2019/05/18/test/"/>
-    <id>https://jinnm.github.io/2019/05/18/test/</id>
-    <published>2019-05-18T14:32:38.000Z</published>
-    <updated>2019-05-18T14:36:57.129Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;img src data-echo=&quot;test/1.png&quot;
-        
-      
-    
-    </summary>
-    
-    
-  </entry>
   
   <entry>
     <title>摄影 || 胶片X夜景</title>
@@ -487,6 +465,30 @@
     
     
       <category term="other" scheme="https://jinnm.github.io/tagsfol/other/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Game || Beautifnl World</title>
+    <link href="https://jinnm.github.io/2018/08/08/Game-Beautifnl-World/"/>
+    <id>https://jinnm.github.io/2018/08/08/Game-Beautifnl-World/</id>
+    <published>2018-08-07T16:13:21.000Z</published>
+    <updated>2018-09-05T04:15:48.784Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;It’s a game made at NUS Summer Workshop.&lt;/p&gt;&lt;p&gt;The game’s name isn’t a spelling mistake. There is an “end” in the game’s name.&lt;/p&gt;&lt;p&gt;Our
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Game" scheme="https://jinnm.github.io/tagsfol/Game/"/>
     
   </entry>
   
