@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Codemoph</title>
+  
+  <subtitle>Code, design, movie, photograph</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://jinnm.github.io/"/>
+  <updated>2019-05-18T14:36:57.129Z</updated>
+  <id>https://jinnm.github.io/</id>
+  
+  <author>
+    <name>Jinnm</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test</title>
+    <link href="https://jinnm.github.io/2019/05/18/test/"/>
+    <id>https://jinnm.github.io/2019/05/18/test/</id>
+    <published>2019-05-18T14:32:38.000Z</published>
+    <updated>2019-05-18T14:36:57.129Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;img src data-echo=&quot;test/1.png&quot;
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>摄影 || 胶片X夜景</title>
+    <link href="https://jinnm.github.io/2019/03/30/photo4/"/>
+    <id>https://jinnm.github.io/2019/03/30/photo4/</id>
+    <published>2019-03-30T11:59:25.000Z</published>
+    <updated>2019-05-18T14:03:14.782Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;手持傻瓜胶片机拍夜景，想想就很崩啊……不过还是想尝试下，了解一下自己的相机&lt;br&gt;出片之后最大的感受是，闪光灯一打真的很丑，整个画面就死了的感觉&lt;/p&gt;&lt;p&gt;&lt;img src data-echo=&quot;https://imgchr.com/i/EXnOJK&quot;
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>摄影 || DX Code是什么</title>
+    <link href="https://jinnm.github.io/2019/03/25/photo3/"/>
+    <id>https://jinnm.github.io/2019/03/25/photo3/</id>
+    <published>2019-03-25T15:40:39.000Z</published>
+    <updated>2019-03-30T12:59:31.592Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;我有两台胶片机，一台是全手动的Olympus om1，还有一台是傻瓜式的Konica
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Photography" scheme="https://jinnm.github.io/tagsfol/Photography/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Wireframe without Geometry Shader</title>
+    <link href="https://jinnm.github.io/2019/03/24/shader3/"/>
+    <id>https://jinnm.github.io/2019/03/24/shader3/</id>
+    <published>2019-03-24T07:37:52.000Z</published>
+    <updated>2019-03-24T07:57:58.777Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;这篇来讨论一下渲染线框的方法，目前知道的方法有&lt;br&gt;1、在贴图上画&lt;br&gt;2、把线框的模型建出来&lt;br&gt;3、使用geometry shader计算&lt;br&gt;4、使用图形接口的fill
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Shader" scheme="https://jinnm.github.io/tagsfol/Shader/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>描边shader再探讨</title>
+    <link href="https://jinnm.github.io/2019/03/12/shader2/"/>
+    <id>https://jinnm.github.io/2019/03/12/shader2/</id>
+    <published>2019-03-12T13:10:50.000Z</published>
+    <updated>2019-03-24T05:44:34.439Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;之前的一篇描边shader只是讲了实现的大致思路，但是实际去实现一个普通的角色描边shader的话，会发现很多很多的问题……&lt;/p&gt;&lt;p&gt;普通的描边感觉比较好也比较常用的方式是用两个pass，底下那层在屏幕空间沿法线外扩，且剔除正面，上面那层用普通的。&lt;br&gt;但是真的使用起
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Shader" scheme="https://jinnm.github.io/tagsfol/Shader/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>描边Shader</title>
+    <link href="https://jinnm.github.io/2018/12/14/shader1/"/>
+    <id>https://jinnm.github.io/2018/12/14/shader1/</id>
+    <published>2018-12-14T03:08:49.000Z</published>
+    <updated>2019-03-24T05:33:37.241Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;写一个使3D物体带描边的shader是基于GPU的渲染的一项作业，关于这个作业有一些思考。&lt;/p&gt;&lt;p&gt;描边shader有很多种写法，最常见最通用的是法线外拓的方法，就是用两个pass，第一个pass渲染红色的放大版模型（之后用A
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Shader" scheme="https://jinnm.github.io/tagsfol/Shader/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Code, design, movie and photography</title>
+    <link href="https://jinnm.github.io/2018/11/06/title/"/>
+    <id>https://jinnm.github.io/2018/11/06/title/</id>
+    <published>2018-11-06T02:03:16.000Z</published>
+    <updated>2018-11-06T02:59:31.373Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Codemoph = Code, Design, Movie,
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>游戏运营讲座</title>
+    <link href="https://jinnm.github.io/2018/11/04/youce2/"/>
+    <id>https://jinnm.github.io/2018/11/04/youce2/</id>
+    <published>2018-11-04T13:25:29.000Z</published>
+    <updated>2018-11-04T14:38:28.607Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;虽然以后肯定做技术，不过今天去听了腾讯某游戏运营负责人的讲座，感觉收获颇多。（我好像是觉得什么都很有趣的体质？）由于今天讲的内容感觉太太太难接触到了，所以一定要把它记下来，可惜当时讲座要求手机关机而且没带电脑，我现在只能凭借记忆补全内容，有些做法以及原因想不太起来了QAQ。
+        
+      
+    
+    </summary>
+    
+    
+      <category term="other" scheme="https://jinnm.github.io/tagsfol/other/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>游戏策划基础</title>
+    <link href="https://jinnm.github.io/2018/11/03/youce/"/>
+    <id>https://jinnm.github.io/2018/11/03/youce/</id>
+    <published>2018-11-03T09:45:32.000Z</published>
+    <updated>2018-11-04T14:40:34.584Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;作业题目&quot;&gt;&lt;a href=&quot;#作业题目&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="other" scheme="https://jinnm.github.io/tagsfol/other/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>摄影 || 第二卷</title>
+    <link href="https://jinnm.github.io/2018/10/28/photo2/"/>
+    <id>https://jinnm.github.io/2018/10/28/photo2/</id>
+    <published>2018-10-28T13:29:40.000Z</published>
+    <updated>2019-03-30T12:30:28.960Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Olympus om-1&lt;/p&gt;&lt;p&gt;&lt;img src data-echo=&quot;https://ws2.sinaimg.cn/large/006tNbRwly1fwo9wtchiij31kw11vx6q.jpg&quot; alt&gt;&lt;br&gt;&lt;img src
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Photography" scheme="https://jinnm.github.io/tagsfol/Photography/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>剧本策划</title>
+    <link href="https://jinnm.github.io/2018/10/26/junben/"/>
+    <id>https://jinnm.github.io/2018/10/26/junben/</id>
+    <published>2018-10-26T12:12:27.000Z</published>
+    <updated>2018-11-06T02:08:26.930Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;由于我们专业有些人以后会去当游戏策划或者做动画，所以专业选修里设置了剧本策划这个课程，外聘了浙江传媒学院老师。原本就很喜欢电影，于是就选了这门课。&lt;/p&gt;&lt;h3 id=&quot;第一阶段&quot;&gt;&lt;a href=&quot;#第一阶段&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Movie" scheme="https://jinnm.github.io/tagsfol/Movie/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>App的icon颜色跟App类别的关系</title>
+    <link href="https://jinnm.github.io/2018/10/23/AppIcon/"/>
+    <id>https://jinnm.github.io/2018/10/23/AppIcon/</id>
+    <published>2018-10-23T13:01:46.000Z</published>
+    <updated>2018-11-04T14:20:28.278Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;手机里的app有一百多个吧，不太喜欢用ios的app文件夹，觉得有点难看，所以一般用页来分类，每个类别一页或者几个类别一起拼成一页。于是就很容易发现购物那一页全线飘红（无视下面的视频类）。&lt;br&gt;&lt;img src
+        
+      
+    
+    </summary>
+    
+    
+      <category term="other" scheme="https://jinnm.github.io/tagsfol/other/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>设计 || 分答模式的设计与启发</title>
+    <link href="https://jinnm.github.io/2018/10/16/design2/"/>
+    <id>https://jinnm.github.io/2018/10/16/design2/</id>
+    <published>2018-10-16T02:43:28.000Z</published>
+    <updated>2019-03-30T13:00:22.241Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;分答的设计&quot;&gt;&lt;a href=&quot;#分答的设计&quot; class=&quot;headerlink&quot; title=&quot;分答的设计&quot;&gt;&lt;/a&gt;分答的设计&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;回答者：回答自己愿意回答的问题，获得 90% 问题酬劳以及所有偷听者每人 0.5
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Design" scheme="https://jinnm.github.io/tagsfol/Design/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>摄影 || 胶片初体验</title>
+    <link href="https://jinnm.github.io/2018/10/15/photo1/"/>
+    <id>https://jinnm.github.io/2018/10/15/photo1/</id>
+    <published>2018-10-15T05:41:06.000Z</published>
+    <updated>2018-11-03T10:15:41.404Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;之前用数码相机拍照时一个场景拍完总觉得不满意，接着会拍好几张（毕竟数码相机多拍几张不心疼），后期选时又选不出来（最后发现都差不多，人生一大错觉：第一张拍的不好只是失误，多拍几张会发现自己就是这个水平hhh）。再加上票圈一个胶片机玩家晒的照片颜色实在太太太好看了（虽然数码也能
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Photography" scheme="https://jinnm.github.io/tagsfol/Photography/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>影评 || 情书，关于死亡</title>
+    <link href="https://jinnm.github.io/2018/10/05/movie1/"/>
+    <id>https://jinnm.github.io/2018/10/05/movie1/</id>
+    <published>2018-10-05T14:42:34.000Z</published>
+    <updated>2019-03-30T12:59:53.034Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;国庆回家路上无聊，想随便挑一部电影看，想到岩井俊二+陈可辛+周迅的新电影《你好，之华》快上映了，便打算再看一遍《情书》，反正它在我的记忆中也非常模糊了，只记得大致情节和开场中山美惠在雪地里经典的一抬头。（其实之前对于秋叶烧制玻璃时油腻的样子印象也蛮深刻的）&lt;br&gt;&lt;img
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Movie" scheme="https://jinnm.github.io/tagsfol/Movie/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>RealTimeRendering Ch.2</title>
+    <link href="https://jinnm.github.io/2018/09/24/RealTimeRendering2/"/>
+    <id>https://jinnm.github.io/2018/09/24/RealTimeRendering2/</id>
+    <published>2018-09-24T13:01:43.000Z</published>
+    <updated>2018-10-20T11:50:23.112Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;Architecture&quot;&gt;&lt;a href=&quot;#Architecture&quot; class=&quot;headerlink&quot; title=&quot;Architecture&quot;&gt;&lt;/a&gt;Architecture&lt;/h3&gt;&lt;p&gt;The speed of the pipelines is
+        
+      
+    
+    </summary>
+    
+    
+      <category term="ComputerGraphics" scheme="https://jinnm.github.io/tagsfol/ComputerGraphics/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>RealTimeRendering Ch.1</title>
+    <link href="https://jinnm.github.io/2018/09/12/RealTimeRendering1/"/>
+    <id>https://jinnm.github.io/2018/09/12/RealTimeRendering1/</id>
+    <published>2018-09-12T03:27:32.000Z</published>
+    <updated>2018-09-24T10:46:30.766Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h5 id=&quot;Display-Rate-amp-Refresh-Rate&quot;&gt;&lt;a href=&quot;#Display-Rate-amp-Refresh-Rate&quot; class=&quot;headerlink&quot; title=&quot;Display Rate &amp;amp; Refresh
+        
+      
+    
+    </summary>
+    
+    
+      <category term="ComputerGraphics" scheme="https://jinnm.github.io/tagsfol/ComputerGraphics/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Learn Unity Shader 2</title>
+    <link href="https://jinnm.github.io/2018/09/08/LearnUnityShader2/"/>
+    <id>https://jinnm.github.io/2018/09/08/LearnUnityShader2/</id>
+    <published>2018-09-08T12:11:24.000Z</published>
+    <updated>2019-03-24T05:33:28.622Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;Marterial-Shader-Texture&quot;&gt;&lt;a href=&quot;#Marterial-Shader-Texture&quot; class=&quot;headerlink&quot; title=&quot;Marterial, Shader, Texture&quot;&gt;&lt;/a&gt;Marterial,
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Shader" scheme="https://jinnm.github.io/tagsfol/Shader/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Learn Unity Shader 1</title>
+    <link href="https://jinnm.github.io/2018/09/06/LearnUnityShader1/"/>
+    <id>https://jinnm.github.io/2018/09/06/LearnUnityShader1/</id>
+    <published>2018-09-06T06:24:11.000Z</published>
+    <updated>2019-03-24T05:33:21.271Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;大致了解Graphics Pipeline&lt;/p&gt;&lt;h3 id=&quot;Mesh&quot;&gt;&lt;a href=&quot;#Mesh&quot; class=&quot;headerlink&quot; title=&quot;Mesh&quot;&gt;&lt;/a&gt;Mesh&lt;/h3&gt;&lt;p&gt;&lt;img src
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Shader" scheme="https://jinnm.github.io/tagsfol/Shader/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>场景设计与表现</title>
+    <link href="https://jinnm.github.io/2018/08/22/changjingsheji/"/>
+    <id>https://jinnm.github.io/2018/08/22/changjingsheji/</id>
+    <published>2018-08-22T13:22:53.000Z</published>
+    <updated>2018-11-06T02:16:02.292Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;这是一门专业必修课的作业。&lt;/p&gt;&lt;p&gt;故事背景：在经历大型陨石雨的毁灭性打击后，吉祥寺院因所处地形奇特而免受打击，其中的僧人幸运的活了下来，然而由于旁边可以采购食品、日用品的小镇不复存在，僧人们只好另寻他处，并建立了新的基地，这个基地除了寺庙之外，还包括食物系统、水资源系
+        
+      
+    
+    </summary>
+    
+    
+      <category term="other" scheme="https://jinnm.github.io/tagsfol/other/"/>
+    
+  </entry>
+  
+</feed>
