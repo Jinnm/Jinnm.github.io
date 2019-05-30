@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://jinnm.github.io/"/>
-  <updated>2019-05-18T14:03:14.782Z</updated>
+  <updated>2019-05-30T02:35:08.355Z</updated>
   <id>https://jinnm.github.io/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>摄影 || 胶片X夜景</title>
-    <link href="https://jinnm.github.io/2019/03/30/photo4/"/>
-    <id>https://jinnm.github.io/2019/03/30/photo4/</id>
-    <published>2019-03-30T11:59:25.000Z</published>
-    <updated>2019-05-18T14:03:14.782Z</updated>
+    <title>Unity2SP</title>
+    <link href="https://jinnm.github.io/2019/05/29/Unity2SP/"/>
+    <id>https://jinnm.github.io/2019/05/29/Unity2SP/</id>
+    <published>2019-05-29T10:59:42.000Z</published>
+    <updated>2019-05-30T02:35:08.355Z</updated>
     
     <summary type="html">
     
@@ -29,12 +29,38 @@
       
         
         
-          &lt;p&gt;手持傻瓜胶片机拍夜景，想想就很崩啊……不过还是想尝试下，了解一下自己的相机&lt;br&gt;出片之后最大的感受是，闪光灯一打真的很丑，整个画面就死了的感觉&lt;/p&gt;&lt;p&gt;&lt;img src data-echo=&quot;https://imgchr.com/i/EXnOJK&quot;
+          &lt;p&gt;前段时间研究了一下怎么把Unity的shader搬到SP，原因是：美术在SP中制作贴图，生成的美术资源放进Unity之后就完全是另一个样子了，来回修改非常麻烦。所以希望SP中就显示引擎里的效果。&lt;/p&gt;&lt;p&gt;通过观察sp自带的clay
         
       
     
     </summary>
     
+    
+      <category term="Shader" scheme="https://jinnm.github.io/tagsfol/Shader/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>摄影 || 胶片X夜景</title>
+    <link href="https://jinnm.github.io/2019/03/30/photo4/"/>
+    <id>https://jinnm.github.io/2019/03/30/photo4/</id>
+    <published>2019-03-30T11:59:25.000Z</published>
+    <updated>2019-05-29T11:00:34.415Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;手持傻瓜胶片机拍夜景，想想就很崩啊……不过还是想尝试下，了解一下自己的相机&lt;br&gt;出片之后最大的感受是，闪光灯一打真的很丑，整个画面就死了的感觉&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://imgchr.com/i/EXnOJK&quot; alt&gt;&lt;/p&gt;&lt;p&gt;&lt;img
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Photography" scheme="https://jinnm.github.io/tagsfol/Photography/"/>
     
   </entry>
   
@@ -217,7 +243,7 @@
       
         
         
-          &lt;p&gt;Olympus om-1&lt;/p&gt;&lt;p&gt;&lt;img src data-echo=&quot;https://ws2.sinaimg.cn/large/006tNbRwly1fwo9wtchiij31kw11vx6q.jpg&quot; alt&gt;&lt;br&gt;&lt;img src
+          &lt;p&gt;Olympus om-1&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://ws2.sinaimg.cn/large/006tNbRwly1fwo9wtchiij31kw11vx6q.jpg&quot; alt&gt;&lt;br&gt;&lt;img
         
       
     
@@ -265,7 +291,7 @@
       
         
         
-          &lt;p&gt;手机里的app有一百多个吧，不太喜欢用ios的app文件夹，觉得有点难看，所以一般用页来分类，每个类别一页或者几个类别一起拼成一页。于是就很容易发现购物那一页全线飘红（无视下面的视频类）。&lt;br&gt;&lt;img src
+          &lt;p&gt;手机里的app有一百多个吧，不太喜欢用ios的app文件夹，觉得有点难看，所以一般用页来分类，每个类别一页或者几个类别一起拼成一页。于是就很容易发现购物那一页全线飘红（无视下面的视频类）。&lt;br&gt;&lt;img
         
       
     
@@ -433,7 +459,7 @@
       
         
         
-          &lt;p&gt;大致了解Graphics Pipeline&lt;/p&gt;&lt;h3 id=&quot;Mesh&quot;&gt;&lt;a href=&quot;#Mesh&quot; class=&quot;headerlink&quot; title=&quot;Mesh&quot;&gt;&lt;/a&gt;Mesh&lt;/h3&gt;&lt;p&gt;&lt;img src
+          &lt;p&gt;大致了解Graphics Pipeline&lt;/p&gt;&lt;h3 id=&quot;Mesh&quot;&gt;&lt;a href=&quot;#Mesh&quot; class=&quot;headerlink&quot; title=&quot;Mesh&quot;&gt;&lt;/a&gt;Mesh&lt;/h3&gt;&lt;p&gt;&lt;img
         
       
     
@@ -465,30 +491,6 @@
     
     
       <category term="other" scheme="https://jinnm.github.io/tagsfol/other/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Game || Beautifnl World</title>
-    <link href="https://jinnm.github.io/2018/08/08/Game-Beautifnl-World/"/>
-    <id>https://jinnm.github.io/2018/08/08/Game-Beautifnl-World/</id>
-    <published>2018-08-07T16:13:21.000Z</published>
-    <updated>2018-09-05T04:15:48.784Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;It’s a game made at NUS Summer Workshop.&lt;/p&gt;&lt;p&gt;The game’s name isn’t a spelling mistake. There is an “end” in the game’s name.&lt;/p&gt;&lt;p&gt;Our
-        
-      
-    
-    </summary>
-    
-    
-      <category term="Game" scheme="https://jinnm.github.io/tagsfol/Game/"/>
     
   </entry>
   
