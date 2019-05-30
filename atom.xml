@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://jinnm.github.io/"/>
-  <updated>2019-05-30T02:38:01.084Z</updated>
+  <updated>2019-05-30T07:22:06.761Z</updated>
   <id>https://jinnm.github.io/</id>
   
   <author>
@@ -17,11 +17,25 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>GammaCorrection</title>
+    <link href="https://jinnm.github.io/2019/05/30/GammaCorrection/"/>
+    <id>https://jinnm.github.io/2019/05/30/GammaCorrection/</id>
+    <published>2019-05-30T07:22:06.000Z</published>
+    <updated>2019-05-30T07:22:06.761Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>Unity Shader转SP</title>
     <link href="https://jinnm.github.io/2019/05/29/Unity2SP/"/>
     <id>https://jinnm.github.io/2019/05/29/Unity2SP/</id>
     <published>2019-05-29T10:59:42.000Z</published>
-    <updated>2019-05-30T02:38:01.084Z</updated>
+    <updated>2019-05-30T07:26:00.528Z</updated>
     
     <summary type="html">
     
@@ -29,7 +43,7 @@
       
         
         
-          &lt;p&gt;前段时间研究了一下怎么把Unity的shader搬到SP，原因是：美术在SP中制作贴图，生成的美术资源放进Unity之后就完全是另一个样子了，来回修改非常麻烦。所以希望SP中就显示引擎里的效果。&lt;/p&gt;&lt;p&gt;通过观察sp自带的clay shader&lt;/p&gt;&lt;figure
+          &lt;p&gt;前段时间研究了一下怎么把Unity的shader搬到SP，原因是：美术在SP中制作贴图，生成的美术资源放进Unity之后就完全是另一个样子了，来回修改非常麻烦。所以希望SP中就显示引擎里的效果。&lt;/p&gt;&lt;p&gt;通过观察sp自带的clay
         
       
     
@@ -467,30 +481,6 @@
     
     
       <category term="Shader" scheme="https://jinnm.github.io/tagsfol/Shader/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>场景设计与表现</title>
-    <link href="https://jinnm.github.io/2018/08/22/changjingsheji/"/>
-    <id>https://jinnm.github.io/2018/08/22/changjingsheji/</id>
-    <published>2018-08-22T13:22:53.000Z</published>
-    <updated>2019-05-30T07:14:18.562Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;这是一门专业必修课的作业。&lt;/p&gt;&lt;p&gt;故事背景：在经历大型陨石雨的毁灭性打击后，吉祥寺院因所处地形奇特而免受打击，其中的僧人幸运的活了下来，然而由于旁边可以采购食品、日用品的小镇不复存在，僧人们只好另寻他处，并建立了新的基地，这个基地除了寺庙之外，还包括食物系统、水资源系
-        
-      
-    
-    </summary>
-    
-    
-      <category term="other" scheme="https://jinnm.github.io/tagsfol/other/"/>
     
   </entry>
   
