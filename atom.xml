@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://jinnm.github.io/"/>
-  <updated>2019-05-30T08:29:36.616Z</updated>
+  <updated>2019-05-30T08:49:04.660Z</updated>
   <id>https://jinnm.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://jinnm.github.io/2019/05/30/GammaCorrection/"/>
     <id>https://jinnm.github.io/2019/05/30/GammaCorrection/</id>
     <published>2019-05-30T07:22:06.000Z</published>
-    <updated>2019-05-30T08:29:36.616Z</updated>
+    <updated>2019-05-30T08:49:04.660Z</updated>
     
     <summary type="html">
     
@@ -53,7 +53,7 @@
       
         
         
-          &lt;p&gt;前段时间研究了一下怎么把Unity的shader搬到SP，原因是：美术在SP中制作贴图，生成的美术资源放进Unity之后就完全是另一个样子了，来回修改非常麻烦。所以希望SP中就显示引擎里的效果。&lt;/p&gt;&lt;p&gt;通过观察sp自带的clay shader&lt;/p&gt;&lt;figure
+          &lt;p&gt;前段时间研究了一下怎么把Unity的shader搬到SP，原因是：美术在SP中制作贴图，生成的美术资源放进Unity之后就完全是另一个样子了，来回修改非常麻烦。所以希望SP中就显示引擎里的效果。&lt;/p&gt;&lt;p&gt;通过观察sp自带的clay
         
       
     
@@ -61,6 +61,30 @@
     
     
       <category term="Shader" scheme="https://jinnm.github.io/tagsfol/Shader/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>美术流程亲自踩坑</title>
+    <link href="https://jinnm.github.io/2019/04/23/ArtPipeline/"/>
+    <id>https://jinnm.github.io/2019/04/23/ArtPipeline/</id>
+    <published>2019-04-23T08:50:57.000Z</published>
+    <updated>2019-05-30T09:11:48.435Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;从0开始做了一个角色，流程是&lt;br&gt;Maya低模 -&amp;gt; ZBrush高模 -&amp;gt; Topogun拓扑 -&amp;gt; Maya展UV -&amp;gt; SP画贴图 -&amp;gt;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Design" scheme="https://jinnm.github.io/tagsfol/Design/"/>
     
   </entry>
   
@@ -460,30 +484,6 @@
         
         
           &lt;h3 id=&quot;Marterial-Shader-Texture&quot;&gt;&lt;a href=&quot;#Marterial-Shader-Texture&quot; class=&quot;headerlink&quot; title=&quot;Marterial, Shader, Texture&quot;&gt;&lt;/a&gt;Marterial,
-        
-      
-    
-    </summary>
-    
-    
-      <category term="Shader" scheme="https://jinnm.github.io/tagsfol/Shader/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Learn Unity Shader 1</title>
-    <link href="https://jinnm.github.io/2018/09/06/LearnUnityShader1/"/>
-    <id>https://jinnm.github.io/2018/09/06/LearnUnityShader1/</id>
-    <published>2018-09-06T06:24:11.000Z</published>
-    <updated>2019-05-30T07:14:20.682Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;大致了解Graphics Pipeline&lt;/p&gt;&lt;h3 id=&quot;Mesh&quot;&gt;&lt;a href=&quot;#Mesh&quot; class=&quot;headerlink&quot; title=&quot;Mesh&quot;&gt;&lt;/a&gt;Mesh&lt;/h3&gt;&lt;p&gt;&lt;img
         
       
     
