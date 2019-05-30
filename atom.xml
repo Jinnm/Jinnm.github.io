@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://jinnm.github.io/"/>
-  <updated>2019-05-30T02:35:08.355Z</updated>
+  <updated>2019-05-30T02:38:01.084Z</updated>
   <id>https://jinnm.github.io/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Unity2SP</title>
+    <title>Unity Shader转SP</title>
     <link href="https://jinnm.github.io/2019/05/29/Unity2SP/"/>
     <id>https://jinnm.github.io/2019/05/29/Unity2SP/</id>
     <published>2019-05-29T10:59:42.000Z</published>
-    <updated>2019-05-30T02:35:08.355Z</updated>
+    <updated>2019-05-30T02:38:01.084Z</updated>
     
     <summary type="html">
     
@@ -29,7 +29,7 @@
       
         
         
-          &lt;p&gt;前段时间研究了一下怎么把Unity的shader搬到SP，原因是：美术在SP中制作贴图，生成的美术资源放进Unity之后就完全是另一个样子了，来回修改非常麻烦。所以希望SP中就显示引擎里的效果。&lt;/p&gt;&lt;p&gt;通过观察sp自带的clay
+          &lt;p&gt;前段时间研究了一下怎么把Unity的shader搬到SP，原因是：美术在SP中制作贴图，生成的美术资源放进Unity之后就完全是另一个样子了，来回修改非常麻烦。所以希望SP中就显示引擎里的效果。&lt;/p&gt;&lt;p&gt;通过观察sp自带的clay shader&lt;/p&gt;&lt;figure
         
       
     
@@ -69,7 +69,7 @@
     <link href="https://jinnm.github.io/2019/03/25/photo3/"/>
     <id>https://jinnm.github.io/2019/03/25/photo3/</id>
     <published>2019-03-25T15:40:39.000Z</published>
-    <updated>2019-03-30T12:59:31.592Z</updated>
+    <updated>2019-05-30T02:39:28.326Z</updated>
     
     <summary type="html">
     
