@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://jinnm.github.io/"/>
-  <updated>2019-05-30T02:38:01.084Z</updated>
+  <updated>2019-05-30T03:00:05.930Z</updated>
   <id>https://jinnm.github.io/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>ceshipic</title>
+    <link href="https://jinnm.github.io/2019/05/30/ceshipic/"/>
+    <id>https://jinnm.github.io/2019/05/30/ceshipic/</id>
+    <published>2019-05-30T02:59:23.000Z</published>
+    <updated>2019-05-30T03:00:05.930Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;img src data-echo=&quot;http://ww1.sinaimg.cn/large/006tNc79ly1g3j5sdjb97j30940foq3q.jpg&quot;
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Unity Shader转SP</title>
@@ -467,30 +489,6 @@
     
     
       <category term="Shader" scheme="https://jinnm.github.io/tagsfol/Shader/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>场景设计与表现</title>
-    <link href="https://jinnm.github.io/2018/08/22/changjingsheji/"/>
-    <id>https://jinnm.github.io/2018/08/22/changjingsheji/</id>
-    <published>2018-08-22T13:22:53.000Z</published>
-    <updated>2018-11-06T02:16:02.292Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;这是一门专业必修课的作业。&lt;/p&gt;&lt;p&gt;故事背景：在经历大型陨石雨的毁灭性打击后，吉祥寺院因所处地形奇特而免受打击，其中的僧人幸运的活了下来，然而由于旁边可以采购食品、日用品的小镇不复存在，僧人们只好另寻他处，并建立了新的基地，这个基地除了寺庙之外，还包括食物系统、水资源系
-        
-      
-    
-    </summary>
-    
-    
-      <category term="other" scheme="https://jinnm.github.io/tagsfol/other/"/>
     
   </entry>
   
