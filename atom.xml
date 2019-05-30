@@ -29,7 +29,7 @@
       
         
         
-          &lt;p&gt;前段时间研究了一下怎么把Unity的shader搬到SP，原因是：美术在SP中制作贴图，生成的美术资源放进Unity之后就完全是另一个样子了，来回修改非常麻烦。所以希望SP中就显示引擎里的效果。&lt;/p&gt;&lt;p&gt;通过观察sp自带的clay shader&lt;/p&gt;&lt;figure
+          &lt;p&gt;前段时间研究了一下怎么把Unity的shader搬到SP，原因是：美术在SP中制作贴图，生成的美术资源放进Unity之后就完全是另一个样子了，来回修改非常麻烦。所以希望SP中就显示引擎里的效果。&lt;/p&gt;&lt;p&gt;通过观察sp自带的clay
         
       
     
@@ -53,7 +53,7 @@
       
         
         
-          &lt;p&gt;手持傻瓜胶片机拍夜景，想想就很崩啊……不过还是想尝试下，了解一下自己的相机&lt;br&gt;出片之后最大的感受是，闪光灯一打真的很丑，整个画面就死了的感觉&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://imgchr.com/i/EXnOJK&quot; alt&gt;&lt;/p&gt;&lt;p&gt;&lt;img
+          &lt;p&gt;手持傻瓜胶片机拍夜景，想想就很崩啊……不过还是想尝试下，了解一下自己的相机&lt;br&gt;出片之后最大的感受是，闪光灯一打真的很丑，整个画面就死了的感觉&lt;/p&gt;&lt;p&gt;&lt;img src data-echo=&quot;https://imgchr.com/i/EXnOJK&quot;
         
       
     
@@ -69,7 +69,7 @@
     <link href="https://jinnm.github.io/2019/03/25/photo3/"/>
     <id>https://jinnm.github.io/2019/03/25/photo3/</id>
     <published>2019-03-25T15:40:39.000Z</published>
-    <updated>2019-05-30T02:39:28.326Z</updated>
+    <updated>2019-05-30T02:41:51.701Z</updated>
     
     <summary type="html">
     
@@ -243,7 +243,7 @@
       
         
         
-          &lt;p&gt;Olympus om-1&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://ws2.sinaimg.cn/large/006tNbRwly1fwo9wtchiij31kw11vx6q.jpg&quot; alt&gt;&lt;br&gt;&lt;img
+          &lt;p&gt;Olympus om-1&lt;/p&gt;&lt;p&gt;&lt;img src data-echo=&quot;https://ws2.sinaimg.cn/large/006tNbRwly1fwo9wtchiij31kw11vx6q.jpg&quot; alt&gt;&lt;br&gt;&lt;img src
         
       
     
@@ -291,7 +291,7 @@
       
         
         
-          &lt;p&gt;手机里的app有一百多个吧，不太喜欢用ios的app文件夹，觉得有点难看，所以一般用页来分类，每个类别一页或者几个类别一起拼成一页。于是就很容易发现购物那一页全线飘红（无视下面的视频类）。&lt;br&gt;&lt;img
+          &lt;p&gt;手机里的app有一百多个吧，不太喜欢用ios的app文件夹，觉得有点难看，所以一般用页来分类，每个类别一页或者几个类别一起拼成一页。于是就很容易发现购物那一页全线飘红（无视下面的视频类）。&lt;br&gt;&lt;img src
         
       
     
@@ -459,7 +459,7 @@
       
         
         
-          &lt;p&gt;大致了解Graphics Pipeline&lt;/p&gt;&lt;h3 id=&quot;Mesh&quot;&gt;&lt;a href=&quot;#Mesh&quot; class=&quot;headerlink&quot; title=&quot;Mesh&quot;&gt;&lt;/a&gt;Mesh&lt;/h3&gt;&lt;p&gt;&lt;img
+          &lt;p&gt;大致了解Graphics Pipeline&lt;/p&gt;&lt;h3 id=&quot;Mesh&quot;&gt;&lt;a href=&quot;#Mesh&quot; class=&quot;headerlink&quot; title=&quot;Mesh&quot;&gt;&lt;/a&gt;Mesh&lt;/h3&gt;&lt;p&gt;&lt;img src
         
       
     
