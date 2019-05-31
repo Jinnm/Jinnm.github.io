@@ -45,7 +45,7 @@
     <link href="https://jinnm.github.io/2019/05/30/GammaCorrection/"/>
     <id>https://jinnm.github.io/2019/05/30/GammaCorrection/</id>
     <published>2019-05-30T07:22:06.000Z</published>
-    <updated>2019-05-30T08:49:04.660Z</updated>
+    <updated>2019-05-31T07:33:00.834Z</updated>
     
     <summary type="html">
     
@@ -53,7 +53,7 @@
       
         
         
-          &lt;p&gt;前段时间尝试在SP中实现unity中的效果，碰到一个问题就是我们项目的Unity使用的是gamma空间（而且没发现有什么地方手动校正了，这样实际上是不太合适的），而SP只能使用linear，所以为了在SP中实现Unity的效果，需要在SP的shader中手动反向gamma校
+          &lt;p&gt;前段时间尝试在SP中实现unity中的效果，碰到一个问题就是我们项目的Unity使用的是gamma空间（因为低端机对于Linear空间是不支持的，但这种情况下应该手动Gamma校正），而SP只能使用linear，所以为了在SP中实现Unity的效果，需要在SP的shader
         
       
     
@@ -69,7 +69,7 @@
     <link href="https://jinnm.github.io/2019/05/29/Unity2SP/"/>
     <id>https://jinnm.github.io/2019/05/29/Unity2SP/</id>
     <published>2019-05-29T10:59:42.000Z</published>
-    <updated>2019-05-30T07:26:00.528Z</updated>
+    <updated>2019-05-31T05:50:42.024Z</updated>
     
     <summary type="html">
     
