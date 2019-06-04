@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://jinnm.github.io/"/>
-  <updated>2019-05-31T04:53:47.363Z</updated>
+  <updated>2019-06-04T14:53:20.119Z</updated>
   <id>https://jinnm.github.io/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>摄影 || 破晓时分</title>
+    <link href="https://jinnm.github.io/2019/06/03/photo5/"/>
+    <id>https://jinnm.github.io/2019/06/03/photo5/</id>
+    <published>2019-06-03T14:32:35.000Z</published>
+    <updated>2019-06-04T14:53:20.119Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;五一节和室友兴奋的计划去宝石山蛤蟆峰看日出，当天四点钟爬起来，令人惊讶的是，四点钟起床比七点半起床轻松许多……出了校门后，三个人越走越兴奋，一路小跑起来，走到宝石山最近的一个入口时就直接用高德地图导航去蛤蟆峰。&lt;/p&gt;&lt;p&gt;事实证明，这是个错误的决定。&lt;br&gt;我们三个没怎么
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Photography" scheme="https://jinnm.github.io/tagsfol/Photography/"/>
+    
+  </entry>
   
   <entry>
     <title>我的「利器」</title>
@@ -189,7 +213,7 @@
     <link href="https://jinnm.github.io/2019/03/12/shader2/"/>
     <id>https://jinnm.github.io/2019/03/12/shader2/</id>
     <published>2019-03-12T13:10:50.000Z</published>
-    <updated>2019-06-01T10:58:08.771Z</updated>
+    <updated>2019-06-01T12:01:13.829Z</updated>
     
     <summary type="html">
     
@@ -460,30 +484,6 @@
         
         
           &lt;h3 id=&quot;Architecture&quot;&gt;&lt;a href=&quot;#Architecture&quot; class=&quot;headerlink&quot; title=&quot;Architecture&quot;&gt;&lt;/a&gt;Architecture&lt;/h3&gt;&lt;p&gt;The speed of the pipelines is
-        
-      
-    
-    </summary>
-    
-    
-      <category term="ComputerGraphics" scheme="https://jinnm.github.io/tagsfol/ComputerGraphics/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>RealTimeRendering Ch.1</title>
-    <link href="https://jinnm.github.io/2018/09/12/RealTimeRendering1/"/>
-    <id>https://jinnm.github.io/2018/09/12/RealTimeRendering1/</id>
-    <published>2018-09-12T03:27:32.000Z</published>
-    <updated>2018-09-24T10:46:30.766Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h5 id=&quot;Display-Rate-amp-Refresh-Rate&quot;&gt;&lt;a href=&quot;#Display-Rate-amp-Refresh-Rate&quot; class=&quot;headerlink&quot; title=&quot;Display Rate &amp;amp; Refresh
         
       
     
