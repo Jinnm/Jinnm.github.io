@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://jinnm.github.io/"/>
-  <updated>2019-06-09T05:13:14.280Z</updated>
+  <updated>2019-06-14T16:27:55.201Z</updated>
   <id>https://jinnm.github.io/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>卡通渲染尝试</title>
+    <link href="https://jinnm.github.io/2019/06/15/shader4/"/>
+    <id>https://jinnm.github.io/2019/06/15/shader4/</id>
+    <published>2019-06-14T16:00:46.000Z</published>
+    <updated>2019-06-14T16:27:55.201Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;（WIP）&lt;/p&gt;&lt;h3 id=&quot;参考图分析&quot;&gt;&lt;a href=&quot;#参考图分析&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Shader" scheme="https://jinnm.github.io/tagsfol/Shader/"/>
+    
+  </entry>
   
   <entry>
     <title>摄影 || 破晓时分</title>
@@ -467,30 +491,6 @@
     
     
       <category term="Movie" scheme="https://jinnm.github.io/tagsfol/Movie/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>RealTimeRendering Ch.2</title>
-    <link href="https://jinnm.github.io/2018/09/24/RealTimeRendering2/"/>
-    <id>https://jinnm.github.io/2018/09/24/RealTimeRendering2/</id>
-    <published>2018-09-24T13:01:43.000Z</published>
-    <updated>2019-05-30T07:14:21.748Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h3 id=&quot;Architecture&quot;&gt;&lt;a href=&quot;#Architecture&quot; class=&quot;headerlink&quot; title=&quot;Architecture&quot;&gt;&lt;/a&gt;Architecture&lt;/h3&gt;&lt;p&gt;The speed of the pipelines is
-        
-      
-    
-    </summary>
-    
-    
-      <category term="ComputerGraphics" scheme="https://jinnm.github.io/tagsfol/ComputerGraphics/"/>
     
   </entry>
   
