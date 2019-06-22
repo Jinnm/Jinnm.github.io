@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://jinnm.github.io/"/>
-  <updated>2019-06-15T03:24:23.299Z</updated>
+  <updated>2019-06-22T07:03:06.272Z</updated>
   <id>https://jinnm.github.io/</id>
   
   <author>
@@ -17,11 +17,35 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>简易IBL渲染</title>
+    <link href="https://jinnm.github.io/2019/06/22/shader5/"/>
+    <id>https://jinnm.github.io/2019/06/22/shader5/</id>
+    <published>2019-06-22T06:32:38.000Z</published>
+    <updated>2019-06-22T07:03:06.272Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;通过一个Cubemap，使用IBL可以渲染出非常接近Unity Standard Shader的效果。常用DCC工具中实时渲染效果最好的大概是Substance
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Shader" scheme="https://jinnm.github.io/tagsfol/Shader/"/>
+    
+  </entry>
+  
+  <entry>
     <title>卡通渲染尝试</title>
     <link href="https://jinnm.github.io/2019/06/14/shader4/"/>
     <id>https://jinnm.github.io/2019/06/14/shader4/</id>
     <published>2019-06-13T16:00:46.000Z</published>
-    <updated>2019-06-15T03:24:23.299Z</updated>
+    <updated>2019-06-22T06:32:07.578Z</updated>
     
     <summary type="html">
     
@@ -467,30 +491,6 @@
     
     
       <category term="Photography" scheme="https://jinnm.github.io/tagsfol/Photography/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>影评 || 情书，关于死亡</title>
-    <link href="https://jinnm.github.io/2018/10/05/movie1/"/>
-    <id>https://jinnm.github.io/2018/10/05/movie1/</id>
-    <published>2018-10-05T14:42:34.000Z</published>
-    <updated>2019-06-09T03:44:02.064Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;国庆回家路上无聊，想随便挑一部电影看，想到岩井俊二+陈可辛+周迅的新电影《你好，之华》快上映了，便打算再看一遍《情书》，反正它在我的记忆中也非常模糊了，只记得大致情节和开场中山美惠在雪地里经典的一抬头。（其实之前对于秋叶烧制玻璃时油腻的样子印象也蛮深刻的）&lt;br&gt;&lt;img
-        
-      
-    
-    </summary>
-    
-    
-      <category term="Movie" scheme="https://jinnm.github.io/tagsfol/Movie/"/>
     
   </entry>
   
