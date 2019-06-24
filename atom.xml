@@ -141,7 +141,7 @@
     <link href="https://jinnm.github.io/2019/05/29/Unity2SP/"/>
     <id>https://jinnm.github.io/2019/05/29/Unity2SP/</id>
     <published>2019-05-29T10:59:42.000Z</published>
-    <updated>2019-05-31T05:50:42.024Z</updated>
+    <updated>2019-06-24T15:58:16.774Z</updated>
     
     <summary type="html">
     
@@ -149,7 +149,7 @@
       
         
         
-          &lt;p&gt;前段时间研究了一下怎么把Unity的shader搬到SP，原因是：美术在SP中制作贴图，生成的美术资源放进Unity之后就完全是另一个样子了，来回修改非常麻烦。所以希望SP中就显示引擎里的效果。&lt;/p&gt;&lt;p&gt;通过观察sp自带的clay shader&lt;/p&gt;&lt;figure
+          &lt;p&gt;前段时间研究了一下怎么把Unity的shader搬到SP，原因是：美术在SP中制作贴图，生成的美术资源放进Unity之后就完全是另一个样子了，来回修改非常麻烦。所以希望SP中就显示引擎里的效果。&lt;/p&gt;&lt;p&gt;我这方面是小白，所以把自己探索的过程也记录进去了。&lt;/p&gt;&lt;p&gt;首
         
       
     
@@ -237,7 +237,7 @@
     <link href="https://jinnm.github.io/2019/03/24/shader3/"/>
     <id>https://jinnm.github.io/2019/03/24/shader3/</id>
     <published>2019-03-24T07:37:52.000Z</published>
-    <updated>2019-05-30T07:14:22.216Z</updated>
+    <updated>2019-06-24T15:38:50.227Z</updated>
     
     <summary type="html">
     
