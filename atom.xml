@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://jinnm.github.io/"/>
-  <updated>2019-06-22T07:09:42.151Z</updated>
+  <updated>2019-07-06T03:24:26.290Z</updated>
   <id>https://jinnm.github.io/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>UE4移动端卡通渲染</title>
+    <link href="https://jinnm.github.io/2019/07/06/shader6/"/>
+    <id>https://jinnm.github.io/2019/07/06/shader6/</id>
+    <published>2019-07-06T02:38:20.000Z</published>
+    <updated>2019-07-06T03:24:26.290Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;前期准备&quot;&gt;&lt;a href=&quot;#前期准备&quot; class=&quot;headerlink&quot; title=&quot;前期准备&quot;&gt;&lt;/a&gt;前期准备&lt;/h3&gt;&lt;p&gt;最近学习UE4，尝试改UE4引擎，做一个cartoon的shading
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Shader" scheme="https://jinnm.github.io/tagsfol/Shader/"/>
+    
+  </entry>
   
   <entry>
     <title>简易IBL渲染</title>
@@ -467,30 +491,6 @@
     
     
       <category term="Design" scheme="https://jinnm.github.io/tagsfol/Design/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>摄影 || 胶片初体验</title>
-    <link href="https://jinnm.github.io/2018/10/15/photo1/"/>
-    <id>https://jinnm.github.io/2018/10/15/photo1/</id>
-    <published>2018-10-15T05:41:06.000Z</published>
-    <updated>2019-05-30T07:14:21.296Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;之前用数码相机拍照时一个场景拍完总觉得不满意，接着会拍好几张（毕竟数码相机多拍几张不心疼），后期选时又选不出来（最后发现都差不多，人生一大错觉：第一张拍的不好只是失误，多拍几张会发现自己就是这个水平hhh）。再加上票圈一个胶片机玩家晒的照片颜色实在太太太好看了（虽然数码也能
-        
-      
-    
-    </summary>
-    
-    
-      <category term="Photography" scheme="https://jinnm.github.io/tagsfol/Photography/"/>
     
   </entry>
   
