@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://jinnm.github.io/"/>
-  <updated>2019-07-06T03:36:01.237Z</updated>
+  <updated>2019-07-27T13:25:32.369Z</updated>
   <id>https://jinnm.github.io/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>移动端丧尸枪击受伤效果</title>
+    <link href="https://jinnm.github.io/2019/07/27/MeshTransformation/"/>
+    <id>https://jinnm.github.io/2019/07/27/MeshTransformation/</id>
+    <published>2019-07-27T13:04:08.000Z</published>
+    <updated>2019-07-27T13:25:32.369Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;参考了这个&lt;a href=&quot;https://assetstore.unity.com/packages/tools/animation/mesh-transformation-120144&quot; target=&quot;_blank&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Shader" scheme="https://jinnm.github.io/tagsfol/Shader/"/>
+    
+  </entry>
   
   <entry>
     <title>UE4移动端卡通渲染</title>
@@ -467,30 +491,6 @@
     
     
       <category term="other" scheme="https://jinnm.github.io/tagsfol/other/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>设计 || 分答模式的设计与启发</title>
-    <link href="https://jinnm.github.io/2018/10/16/design2/"/>
-    <id>https://jinnm.github.io/2018/10/16/design2/</id>
-    <published>2018-10-16T02:43:28.000Z</published>
-    <updated>2019-03-30T13:00:22.241Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h3 id=&quot;分答的设计&quot;&gt;&lt;a href=&quot;#分答的设计&quot; class=&quot;headerlink&quot; title=&quot;分答的设计&quot;&gt;&lt;/a&gt;分答的设计&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;回答者：回答自己愿意回答的问题，获得 90% 问题酬劳以及所有偷听者每人 0.5
-        
-      
-    
-    </summary>
-    
-    
-      <category term="Design" scheme="https://jinnm.github.io/tagsfol/Design/"/>
     
   </entry>
   
