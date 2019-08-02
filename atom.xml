@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://jinnm.github.io/"/>
-  <updated>2019-07-28T09:22:36.102Z</updated>
+  <updated>2019-08-02T02:33:00.221Z</updated>
   <id>https://jinnm.github.io/</id>
   
   <author>
@@ -17,11 +17,35 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>移动端丧尸枪击受伤效果</title>
+    <title>移动端枪击受伤效果(二)</title>
+    <link href="https://jinnm.github.io/2019/08/02/MeshTransformation2/"/>
+    <id>https://jinnm.github.io/2019/08/02/MeshTransformation2/</id>
+    <published>2019-08-02T02:15:08.000Z</published>
+    <updated>2019-08-02T02:33:00.221Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;原本的版本主要有两个很费或是影响低配机效果的地方，一是使用了两次vtf，一次是为了获取终点mesh的顶点法线，对顶点法线也做morgh，一次是为了获取射击点。二是shader会不停的遍历所有的射击点计算距离，对于旧的射击点，很多计算是重复的。&lt;/p&gt;&lt;h3
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Shader" scheme="https://jinnm.github.io/tagsfol/Shader/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>移动端枪击受伤效果(一)</title>
     <link href="https://jinnm.github.io/2019/07/27/MeshTransformation/"/>
     <id>https://jinnm.github.io/2019/07/27/MeshTransformation/</id>
     <published>2019-07-27T13:04:08.000Z</published>
-    <updated>2019-07-28T09:22:36.102Z</updated>
+    <updated>2019-08-02T02:17:37.294Z</updated>
     
     <summary type="html">
     
@@ -467,30 +491,6 @@
     
     
       <category term="Movie" scheme="https://jinnm.github.io/tagsfol/Movie/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>App的icon颜色跟App类别的关系</title>
-    <link href="https://jinnm.github.io/2018/10/23/AppIcon/"/>
-    <id>https://jinnm.github.io/2018/10/23/AppIcon/</id>
-    <published>2018-10-23T13:01:46.000Z</published>
-    <updated>2019-05-30T07:14:15.849Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;手机里的app有一百多个吧，不太喜欢用ios的app文件夹，觉得有点难看，所以一般用页来分类，每个类别一页或者几个类别一起拼成一页。于是就很容易发现购物那一页全线飘红（无视下面的视频类）。&lt;br&gt;&lt;img
-        
-      
-    
-    </summary>
-    
-    
-      <category term="other" scheme="https://jinnm.github.io/tagsfol/other/"/>
     
   </entry>
   
