@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://jinnm.github.io/"/>
-  <updated>2019-08-02T02:33:00.000Z</updated>
+  <updated>2019-12-18T06:01:33.981Z</updated>
   <id>https://jinnm.github.io/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>基于UE4的写实头发制作流程</title>
+    <link href="https://jinnm.github.io/2019/12/18/UE4HairWorkflow/"/>
+    <id>https://jinnm.github.io/2019/12/18/UE4HairWorkflow/</id>
+    <published>2019-12-18T05:34:32.000Z</published>
+    <updated>2019-12-18T06:01:33.981Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h3&gt;&lt;p&gt;按照UE4的头发shading
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Design" scheme="https://jinnm.github.io/tagsfol/Design/"/>
+    
+  </entry>
   
   <entry>
     <title>移动端枪击受伤效果(二)</title>
@@ -467,30 +491,6 @@
     
     
       <category term="Photography" scheme="https://jinnm.github.io/tagsfol/Photography/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>剧本策划</title>
-    <link href="https://jinnm.github.io/2018/10/26/Juben/"/>
-    <id>https://jinnm.github.io/2018/10/26/Juben/</id>
-    <published>2018-10-26T12:12:27.000Z</published>
-    <updated>2018-11-06T02:08:26.000Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;由于我们专业有些人以后会去当游戏策划或者做动画，所以专业选修里设置了剧本策划这个课程，外聘了浙江传媒学院老师。原本就很喜欢电影，于是就选了这门课。&lt;/p&gt;&lt;h3 id=&quot;第一阶段&quot;&gt;&lt;a href=&quot;#第一阶段&quot; class=&quot;headerlink&quot;
-        
-      
-    
-    </summary>
-    
-    
-      <category term="Movie" scheme="https://jinnm.github.io/tagsfol/Movie/"/>
     
   </entry>
   
