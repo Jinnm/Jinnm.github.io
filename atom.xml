@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://jinnm.github.io/"/>
-  <updated>2019-12-30T09:56:13.006Z</updated>
+  <updated>2020-01-12T11:20:35.096Z</updated>
   <id>https://jinnm.github.io/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>水滴流动特效(一)</title>
+    <link href="https://jinnm.github.io/2020/01/12/shader7/"/>
+    <id>https://jinnm.github.io/2020/01/12/shader7/</id>
+    <published>2020-01-12T10:59:12.000Z</published>
+    <updated>2020-01-12T11:20:35.096Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h3&gt;&lt;p&gt;水滴流动特效是开放世界游戏非常常见的效果，在shadertoy看到一个没有使用任何贴图做的效果：&lt;br&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Shader" scheme="https://jinnm.github.io/tagsfol/Shader/"/>
+    
+  </entry>
   
   <entry>
     <title>基于UE4的写实头发制作流程</title>
@@ -467,30 +491,6 @@
     
     
       <category term="other" scheme="https://jinnm.github.io/tagsfol/other/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>摄影 || 第二卷</title>
-    <link href="https://jinnm.github.io/2018/10/28/photo2/"/>
-    <id>https://jinnm.github.io/2018/10/28/photo2/</id>
-    <published>2018-10-28T13:29:40.000Z</published>
-    <updated>2019-06-14T15:51:59.000Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;Olympus om-1&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;http://ws2.sinaimg.cn/large/006tNbRwly1fwo9wtchiij31kw11vx6q.jpg&quot; alt&gt;&lt;br&gt;&lt;img
-        
-      
-    
-    </summary>
-    
-    
-      <category term="Photography" scheme="https://jinnm.github.io/tagsfol/Photography/"/>
     
   </entry>
   
